@@ -1,0 +1,6 @@
+Tính năng A:
+1. Cho phép người dùng đăng nhập bằng email.
+2. Hệ thống lưu token đăng nhập trong session.
+3. Cung cấp chức năng đổi mật khẩu.
+4. Bảo mật bằng mã hóa SHA256.
+5. Có giao diện người dùng thân thiện.
