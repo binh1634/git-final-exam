@@ -1,3 +1,5 @@
 Đây là file tạo trực tiếp trên GitHub.
 Gồm 3 dòng nội dung.
 Commit trực tiếp online.
+Thêm dòng 4 tại local.
+Thêm dòng 5 tại local.
