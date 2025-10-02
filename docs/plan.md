@@ -14,3 +14,6 @@ Ngày kết thúc: 08/10/2025
 9. Tổng kết kiến thức cuối tuần.
 10. Chuẩn bị cho bài kiểm tra Git cuối cùng.
 
+Ngày 1: Ôn Git basics
+Ngày 2: Thực hành branch và merge
+Ngày 3: Học rebase và conflict resolution
