@@ -1,0 +1,22 @@
+Giới thiệu:
+Tôi tên: Lê Trần Khánh Bình.
+Hiện là sinh viên ngành CNTT.
+Sở thích: Xem phim, nghe nhạc,Nấu ăn.
+Mục tiêu: nắm vững Git và làm việc nhóm hiệu quả.
+
+Sở thích:
+1. Xem Phim
+2. Nghe Nhạc
+3. Nấu Ăn
+
+Kỹ năng:
+1. Python
+2. Git
+3. HTML/C#
+
+Kế hoạch học tập:
+1. Hoàn thành khóa Git nâng cao trong 3 tháng.
+2. Thực hành Git hàng ngày với project nhỏ.
+3. Học thêm rebase, merge, conflict resolution.
+4. Tham gia code review nhóm.
+5. Đọc tài liệu từ git-scm.com.
